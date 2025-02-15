@@ -1,0 +1,442 @@
+{
+    "asset": {
+        "copyright": "2024 (c) Adobe Inc.",
+        "generator": "Adobe Substance 3D Stager - 522bab3571c29d3cf2b1b071f74e2d9861da2e41",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 3552,
+            "type": "VEC3",
+            "max": [
+                0.02724410407245159,
+                0.14654919505119325,
+                0.049561675637960437
+            ],
+            "min": [
+                -0.02724410407245159,
+                -0.058885976672172549,
+                -0.03469275310635567
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 3552,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 3552,
+            "type": "VEC4"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5126,
+            "count": 3552,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5125,
+            "count": 5280,
+            "type": "SCALAR",
+            "max": [
+                3551.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 948,
+            "type": "VEC3",
+            "max": [
+                0.008179744705557824,
+                0.10009061545133591,
+                0.016883788630366327
+            ],
+            "min": [
+                -0.007654501590877771,
+                -0.07819706946611405,
+                -0.053031522780656818
+            ]
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 948,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5126,
+            "count": 948,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5125,
+            "count": 2832,
+            "type": "SCALAR",
+            "max": [
+                947.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5126,
+            "count": 224,
+            "type": "VEC3",
+            "max": [
+                0.0249630119651556,
+                0.05922196805477142,
+                0.046431493014097217
+            ],
+            "min": [
+                -0.0249630119651556,
+                -0.05114159360527992,
+                -0.024024607613682748
+            ]
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 224,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5126,
+            "count": 224,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 12,
+            "componentType": 5125,
+            "count": 372,
+            "type": "SCALAR",
+            "max": [
+                223.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 42624,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 42624,
+            "byteLength": 42624,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 85248,
+            "byteLength": 56832,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 142080,
+            "byteLength": 28416,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 170496,
+            "byteLength": 21120,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 191616,
+            "byteLength": 11376,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 202992,
+            "byteLength": 11376,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 214368,
+            "byteLength": 7584,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 221952,
+            "byteLength": 11328,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 233280,
+            "byteLength": 2688,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 235968,
+            "byteLength": 2688,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 238656,
+            "byteLength": 1792,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 240448,
+            "byteLength": 1488,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 241936,
+            "uri": "cocktail_binary.bin"
+        }
+    ],
+    "images": [
+        {
+            "name": "composited_baseColor",
+            "uri": "cocktail_images/composited_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "composited_roughness",
+            "uri": "cocktail_images/composited_roughness.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "Fabric_n3d_Fabric_stack-3A-3Abase_color-3A-3Asampler",
+            "uri": "cocktail_images/Fabric_n3d_Fabric_stack-3A-3Abase_color-3A-3Asampler.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "composited_roughness_0",
+            "uri": "cocktail_images/composited_roughness_0.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "composited_translucency",
+            "uri": "cocktail_images/composited_translucency.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "name": "Bottle",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 2
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 3
+                }
+            },
+            "name": "Fabric",
+            "doubleSided": true,
+            "extensions": {
+                "KHR_materials_transmission": {
+                    "transmissionFactor": 1,
+                    "transmissionTexture": {
+                        "index": 4
+                    }
+                },
+                "KHR_materials_volume": {
+                    "attenuationColor": [
+                        0.011612244881689549,
+                        0.5711249113082886,
+                        0.8468732833862304
+                    ],
+                    "attenuationDistance": 0.047600001096725467,
+                    "thicknessFactor": 0
+                }
+            }
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6038274168968201,
+                    0.6038274168968201,
+                    0.6038274168968201,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.24253562092781068
+            },
+            "name": "Liquid",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Bottle",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TANGENT": 2,
+                        "TEXCOORD_0": 3
+                    },
+                    "indices": 4,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "Fabric",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 6,
+                        "POSITION": 5,
+                        "TEXCOORD_0": 7
+                    },
+                    "indices": 8,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "Liquid",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 9,
+                        "NORMAL": 10,
+                        "TEXCOORD_0": 11
+                    },
+                    "indices": 12,
+                    "material": 2
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "working_cam_n3d"
+        },
+        {
+            "children": [
+                2
+            ],
+            "translation": [
+                0.0,
+                0.1774258315563202,
+                0.0
+            ],
+            "name": "Molotov_Cocktail"
+        },
+        {
+            "children": [
+                3,
+                4
+            ],
+            "translation": [
+                0.0,
+                -0.04223373159766197,
+                -0.0007448936812579632
+            ],
+            "mesh": 0,
+            "name": "Bottle"
+        },
+        {
+            "translation": [
+                0.0,
+                0.04792585223913193,
+                -0.0004088573914486915
+            ],
+            "mesh": 1,
+            "name": "Fabric"
+        },
+        {
+            "translation": [
+                0.0,
+                -0.0023978855460882189,
+                0.0003665944386739284
+            ],
+            "mesh": 2,
+            "name": "Liquid"
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                1
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "composited_baseColor",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "composited_roughness",
+            "sampler": 0,
+            "source": 1
+        },
+        {
+            "name": "Fabric_n3d_Fabric_stack::base_color::sampler",
+            "sampler": 0,
+            "source": 2
+        },
+        {
+            "name": "composited_roughness",
+            "sampler": 0,
+            "source": 3
+        },
+        {
+            "name": "composited_translucency",
+            "sampler": 0,
+            "source": 4
+        }
+    ],
+    "scene": 0,
+    "extensionsUsed": [
+        "KHR_materials_transmission",
+        "KHR_materials_volume"
+    ]
+}
